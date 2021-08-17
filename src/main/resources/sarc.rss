@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+<channel>
+<title>Southgate Amateur Radio News RSS Feed</title>
+<description>Latest Amateur Radio News from around the world</description>
+<link>http://www.southgatearc.org</link>
+<ttl>10</ttl>
+
+<item>
+<title>Following earthquake in Haiti, radio smateurs asked to keep frequencies clear</title>
+<link>http://www.southgatearc.org/news/2021/august/earthquake-in-haiti-radio-smateurs-asked-to-keep-frequencies-clear.htm</link>
+<description>In a statement received by ARRL on August 14, 2021, Region 2 of the International Amateur Radio Union (IARU-R2) has requested that radio amateurs in the Americas keep the following frequencies clear to support emergency communications in Haiti following an earthquake this morning: 3750 kHz, 7150 kHz and 14330 kHz</description>
+</item>
+
+<item>
+<title>Strong support for ILLW 2021</title>
+<link>http://www.southgatearc.org/news/2021/august/strong-support-for-illw-2021.htm</link>
+<description>Despite the global effect of the Covid pandemic, the ILLW is going ahead next weekend with strong support from the amateur fraternity from 42 countries</description>
+</item>
+
+<item>
+<title>The search for Flight MH370</title>
+<link>http://www.southgatearc.org/news/2021/august/the-search-for-flight-mh370.htm</link>
+<description>John Willliam VK4JJW has an update on how WSPR, the Weak Signal Propagation Reporting remains a key source of hope in the search for the wreckage of the missing airliner</description>
+</item>
+
+<item>
+<title>Icelandic WEB-SDR</title>
+<link>http://www.southgatearc.org/news/2021/august/icelandic-web-sdr.htm</link>
+<description>The Icelandic Radio Club reports that Ari (TF1A) installed a new web-based Kiwi-SDR receiver, owned and operated by (TF3GZ), and that it has gone online in Iceland, at Bláfjöll Mountain, at an elevation of 690 meters.</description>
+</item>
+
+<item>
+<title>DXCC Country/Entity Report</title>
+<link>http://www.southgatearc.org/news/2021/august/dxcc-country-entity-report-16-08.htm</link>
+<description>According to the Amateur Radio Cluster Network for the week of Sunday, 8th-August, through Sunday, 15th-August there were 206 countries active</description>
+</item>
+
+<item>
+<title>IOTA News from OPDX</title>
+<link>http://www.southgatearc.org/iota/opdx/index.htm</link>
+<description>Weekly IOTA News - compiled by Tedd Mirgliotta, KB8NW</description>
+</item>
+
+</channel>                                                          
+</rss>
