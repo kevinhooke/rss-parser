@@ -18,9 +18,14 @@ public class RssParser {
 	}
 
 	public Rss parseRss(String rssUri) throws URISyntaxException, JsonParseException, JsonMappingException, IOException {
-		URL uri = new URL(rssUri);
+		URL url = new URL(rssUri);
+		Rss rss = this.parseRssFromUrl(url);
+		return rss;
+	}
+	
+	Rss parseRssFromUrl(URL url) throws JsonParseException, JsonMappingException, IOException {
 		XmlMapper mapper = new XmlMapper();
-		Rss rss = mapper.readValue(uri, Rss.class);
+		Rss rss = mapper.readValue(url, Rss.class);
 		
 		return rss;
 	}

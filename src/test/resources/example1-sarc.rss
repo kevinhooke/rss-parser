@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Example News RSS Feed</title>
+        <description>Latest News from around the world</description>
+        <link>http://example.link</link>
+        <ttl>10</ttl>
+        <item>
+            <title>This is title 1</title>
+            <link>http://example1.link</link>
+            <description>Description for item 1</description>
+        </item>
+        <item>
+            <title>This is title 2</title>
+            <link>http://example2.link</link>
+            <description>Description for item 2</description>
+        </item>
+    </channel>
+</rss>

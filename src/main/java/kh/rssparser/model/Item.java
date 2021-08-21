@@ -1,5 +1,8 @@
 package kh.rssparser.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class Item {
 
 	private String title;

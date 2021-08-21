@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--long comment here
+-->
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+    <channel>
+        <title>News example2™</title>
+        <link>https://link1.example/</link>
+        <lastBuildDate>Fri, 13 Aug 2021 01:00:27 +0000</lastBuildDate>
+        <language>en-US</language>
+        <generator>Site-Server v6.0.0-29946-29946 (http://www.squarespace.com)</generator>
+        <itunes:author>Staff</itunes:author>
+        <itunes:subtitle>News for the week</itunes:subtitle>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:owner>
+            <itunes:name>Example</itunes:name>
+            <itunes:email>example@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Technology">
+            <itunes:category text="Tech News"/></itunes:category>
+        <itunes:category text="Games &amp; Hobbies">
+            <itunes:category text="Hobbies"/></itunes:category>
+        <itunes:category text="News &amp; Politics"/>
+        <copyright>Copyright 2019</copyright>
+        <itunes:type>episodic</itunes:type>
+        <itunes:image href="https://example.com"/>
+        <description>
+            <![CDATA[weekly news digest]]>
+        </description>
+        <item>
+            <title>News for Friday August 13, 2021</title>
+            <dc:creator>Author 1</dc:creator>
+            <pubDate>Fri, 13 Aug 2021 01:09:11 +0000</pubDate>
+            <link>https://line1.example</link>
+            <guid isPermaLink="false">111222</guid>
+            <description>
+                <![CDATA[<p class=""> - BREAKING NEWS: item1<br> - item2 aaa bbb ccc ddd<br> - item3 aaa bbb ccc ddd<br> - item3 aaa bbb ccc ddd</p><p class=""><a href="https://example.link">SCRIPT</a></p><p class=""><a href="https://example.com/example.mp3">AUDIO</a></p>]]>
+            </description>
+            <itunes:author>News</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://example.com/logo_optimized.png?content-type=image%2Fpng"/>
+            <itunes:episode>2285</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <enclosure url="https://example1.com/static/dff/sdfsf/dfdsfs2285.mp3" length="18885445" type="audio/mpeg"/>
+            <media:content url="https://example2.com/static/fgdf/fgfdd/gfdffd/Report2285.mp3" length="18885445" type="audio/mpeg" isDefault="true" medium="audio"/>
+        </item>
+        <item>
+            <title>News for Friday August 6, 2021</title>
+            <dc:creator>Author 1</dc:creator>
+            <pubDate>Fri, 13 Aug 2021 01:09:11 +0000</pubDate>
+            <link>https://line1.example</link>
+            <guid isPermaLink="false">111222</guid>
+            <description>
+                <![CDATA[<p class=""> - BREAKING NEWS: item1<br> - item2 aaa bbb ccc ddd<br> - item3 aaa bbb ccc ddd<br> - item3 aaa bbb ccc ddd</p><p class=""><a href="https://example.link">SCRIPT</a></p><p class=""><a href="https://example.com/example.mp3">AUDIO</a></p>]]>
+            </description>
+            <itunes:author>News</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://example.com/logo_optimized.png?content-type=image%2Fpng"/>
+            <itunes:episode>2285</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <enclosure url="https://example1.com/static/dff/sdfsf/dfdsfs2285.mp3" length="18885445" type="audio/mpeg"/>
+            <media:content url="https://example2.com/static/fgdf/fgfdd/gfdffd/Report2285.mp3" length="18885445" type="audio/mpeg" isDefault="true" medium="audio"/>
+        </item>
+        <item>
+            <title>News for Friday July 30, 2021</title>
+            <dc:creator>Author 1</dc:creator>
+            <pubDate>Fri, 13 Aug 2021 01:09:11 +0000</pubDate>
+            <link>https://line1.example</link>
+            <guid isPermaLink="false">111222</guid>
+            <description>
+                <![CDATA[<p class=""> - BREAKING NEWS: item1<br> - item2 aaa bbb ccc ddd<br> - item3 aaa bbb ccc ddd<br> - item3 aaa bbb ccc ddd</p><p class=""><a href="https://example.link">SCRIPT</a></p><p class=""><a href="https://example.com/example.mp3">AUDIO</a></p>]]>
+            </description>
+            <itunes:author>News</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://example.com/logo_optimized.png?content-type=image%2Fpng"/>
+            <itunes:episode>2285</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <enclosure url="https://example1.com/static/dff/sdfsf/dfdsfs2285.mp3" length="18885445" type="audio/mpeg"/>
+            <media:content url="https://example2.com/static/fgdf/fgfdd/gfdffd/Report2285.mp3" length="18885445" type="audio/mpeg" isDefault="true" medium="audio"/>
+        </item>
+    </channel>
+</rss>
