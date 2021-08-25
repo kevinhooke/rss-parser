@@ -52,10 +52,15 @@ public class RssParserTest {
 		assertEquals("News for Friday August 13, 2021", titles.get(0).getTitle());
 		assertEquals("News for Friday August 6, 2021", titles.get(1).getTitle());
 		assertEquals("News for Friday July 30, 2021", titles.get(2).getTitle());
-		
-		
-		
 	}
 
+		@Test
+		public void testExtractStringsFromDescription() {
+			RssParser parser = new RssParser();
+			List<String> titles = parser.extractStringsFromDescription("<p class=\"\"> - BREAKING NEWS: item1<br> - item2 aaa bbb ccc ddd<br> - item3 aaa bbb ccc ddd<br> - item4 aaa bbb ccc ddd</p><p class=\"\"><a href=\"https://example.link\">SCRIPT</a></p><p class=\"\"><a href=\"https://example.com/example.mp3\">AUDIO</a></p>");
+			assertEquals(4, titles.size());
+			
+		}
+	
 	
 }
